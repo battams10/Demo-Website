@@ -6,7 +6,6 @@ D:\Documents\Demo-Website\MyWebApp\bin\Debug\net7.0\MyWebApp.deps.json
 D:\Documents\Demo-Website\MyWebApp\bin\Debug\net7.0\MyWebApp.runtimeconfig.json
 D:\Documents\Demo-Website\MyWebApp\bin\Debug\net7.0\MyWebApp.dll
 D:\Documents\Demo-Website\MyWebApp\bin\Debug\net7.0\MyWebApp.pdb
-D:\Documents\Demo-Website\MyWebApp\obj\Debug\net7.0\MyWebApp.csproj.AssemblyReference.cache
 D:\Documents\Demo-Website\MyWebApp\obj\Debug\net7.0\MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
 D:\Documents\Demo-Website\MyWebApp\obj\Debug\net7.0\MyWebApp.AssemblyInfoInputs.cache
 D:\Documents\Demo-Website\MyWebApp\obj\Debug\net7.0\MyWebApp.AssemblyInfo.cs
@@ -29,3 +28,4 @@ D:\Documents\Demo-Website\MyWebApp\obj\Debug\net7.0\refint\MyWebApp.dll
 D:\Documents\Demo-Website\MyWebApp\obj\Debug\net7.0\MyWebApp.pdb
 D:\Documents\Demo-Website\MyWebApp\obj\Debug\net7.0\MyWebApp.genruntimeconfig.cache
 D:\Documents\Demo-Website\MyWebApp\obj\Debug\net7.0\ref\MyWebApp.dll
+D:\Documents\Demo-Website\MyWebApp\obj\Debug\net7.0\MyWebApp.sourcelink.json

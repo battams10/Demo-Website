@@ -1,0 +1,26 @@
+Pages:
+    Index/Home - hardcoded
+        - Description of site
+        - Info about me
+        - contact info
+    Education
+        - create template : generates as many education blocks for each entry in JSON file
+            - Institution
+            - Start Date
+            - End Date
+            - Grade(s)
+            - Description
+    Experience : generates as many experience blocks for each entry in JSON file
+        - create template
+            - Company
+            - Start Date
+            - End Date
+            - Description
+    Projects/GitHub Listings : generates as many project blocks for each entry in JSON file
+        - create template
+            - Proj name
+            - Description
+            - relevant images
+
+potential idea:
+    - made education and experience pages be generated based on CV
